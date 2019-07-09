@@ -9,7 +9,8 @@ import Vue from 'vue'
 import App from './App.vue'
 
 // 引入外部样式
-// import './xxx/index.css'
+import './assets/css/index.css'
+import '../node_modules/bootstrap/dist/css/bootstrap.css'
 
 // 提示当前处在开发模式, false 不提示
 Vue.config.productionTip = false
